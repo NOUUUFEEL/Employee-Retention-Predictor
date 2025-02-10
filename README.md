@@ -36,11 +36,9 @@ The project uses employee data from various sources, including survey results, g
 
 ## Installation
 
-To run this project, ensure you have Python 3.x installed. Then, install the required dependencies using the following command:
+To run this project, ensure you have Python 3.x installed. Then, install the required dependencies. 
 
-```bash
-pip install -r requirements.txt
-```
+
 
 ## Usage
 
@@ -57,9 +55,7 @@ pip install -r requirements.txt
    jupyter notebook
    ```
 
-## Data Sources
 
-The datasets used in this project come from anonymized employee records provided by the Human Resources department of a pharmaceutical company. These include general employee information, survey results, and performance assessments.
 
 ## Contributing
 
