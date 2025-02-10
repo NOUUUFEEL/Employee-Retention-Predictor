@@ -61,6 +61,3 @@ To run this project, ensure you have Python 3.x installed. Then, install the req
 
 Feel free to fork this repository and submit pull requests. If you have suggestions for improvements, please open an issue!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
